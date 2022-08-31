@@ -23,6 +23,7 @@ button {
   cursor: pointer;
 }
 
+/* ----------------task 3---------------- */
 .gallery {
   display: flex;
   flex-wrap: wrap;
